@@ -1,0 +1,31 @@
+{
+  "name": "2025.2_t02_g6_aquitemfcte_entrega_02",
+  "version": "1.0.0",
+  "description": "Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.",
+  "homepage": "https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G6_AquiTemFCTE_Entrega_02#readme",
+  "bugs": {
+    "url": "https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G6_AquiTemFCTE_Entrega_02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G6_AquiTemFCTE_Entrega_02.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4",
+    "husky": "^9.1.7"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1"
+  }
+}

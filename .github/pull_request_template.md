@@ -1,24 +1,26 @@
+## 🚀 Tipo da sua alteração
+- [ ] `feat`: Uma nova funcionalidade.
+- [ ] `fix`: Uma correção de bug.
+- [ ] `docs`: Mudanças apenas na documentação.
+- [ ] `style`: Mudanças de formatação ou estilo do código.
+- [ ] `refactor`: Refatoração do código sem mudança na funcionalidade.
+- [ ] `test`: Adição de testes faltantes ou melhoria nos testes existentes.
+- [ ] `chore`: Mudanças no processo de build, ou ferramentas e bibliotecas.
+- [ ] `perf`: Melhoria de performance.
+- [ ] `revert`: Reverte um commit anterior.
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+## 📝 Descrição
+<!-- Descreva o que seu Pull Request implementa de forma breve -->
 
-## Types of changes
+## 🔗 Issue Relacionada
+<!-- Apague o dado em <> e insira o número da issue relacionada -->
+Closes #<número_da_issue>
 
-What types of changes does your code introduce to <repo_name>?
-_Put an `x` in the boxes that apply_
+## ✅ Checklist de Checagem
+- [ ] Meu código está livre de erros e segue as convenções de estilo do projeto.
+- [ ] Eu adicionei testes para as minhas mudanças (quando aplicável).
+- [ ] Eu atualizei a documentação relevante (se aplicável).
+- [ ] As minhas mudanças não introduzem nenhum novo problema.
+- [ ] Eu li e estou seguindo todas as regras dispostas nas regras de [CONTRIBUIÇÃO](../CONTRIBUTING.md)
 
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation Update (if none of the other choices apply)
-
-## Checklist
-
-_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
-
-- [ ] I have read the CONTRIBUTING.md doc.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] Any dependent changes have been merged and published in downstream modules.
-
-## Further comments
-
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+## 📸 Capturas de Tela (se apropriado)
