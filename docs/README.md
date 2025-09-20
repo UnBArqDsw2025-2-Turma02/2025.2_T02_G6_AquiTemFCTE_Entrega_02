@@ -41,4 +41,5 @@ Nenhuma informação complementar.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
 | -- | -- | -- | -- | -- | -- |
-| 1.0 | 29/08/2025 | Criação do Documento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | - |
+| 1.0 | 20/09/2025 | Criação do Documento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Foi encontrado erros de ortografia e data no versionamento|
+| 1.1 | 20/09/2025 | Edição do nome na sidebar e da data do versionamento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Ok |
