@@ -1,41 +1,45 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
+# AquiTemFCTE
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_02)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_02*. !!**  
- 
- (Apague esses comentários)
-
-# Nome do Projeto
-
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
-**Entrega**: 02<br>
+**Código da Disciplina**: FGA0208 <br>
+**Número do Grupo**: 06 <br>
+**Entrega**: 02 <br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2017521  |  Algusto Rodrigues |
+| 23/1026302  |  Caio Lucas |
+| 21/1061583  |  Daniel Rodrigues |
+| 23/1011220  |  Davi Camilo |
+| 21/1030729  |  Eric Rabelo |
+| 23/1011328 |  Felipe Campelo |
+| 21/1061897  |  Igor Justino |
+| 23/1011515  |  Isaque Camargos |
+| 22/2015159  |  Lucas Guimarães |
+| 23/1026750  |  Ludmila Aysha |
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+## Sobre
+
+O AquiTemFCTE é uma plataforma digital que busca atender às necessidades da comunidade universitária da Universidade de Brasília (UnB) do Campus Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Nosso principal objetivo é facilitar a compra, venda e troca de itens novos e usados exclusivamente entre os estudantes da universidade, criando um ambiente seguro e confiável para transações.
+
+O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Software (UnB - 2025.2) e visa solucionar a dificuldade que muitos alunos têm em encontrar canais confiáveis para negociar produtos dentro do próprio campus. A plataforma centraliza essas atividades e otimiza a experiência do usuário, oferecendo recursos de pesquisa, categorização de produtos e perfis de usuário verificados.
 
 ## Screenshots da Segunda Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(x) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+## Informações Complementares
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Nenhuma informação complementar.
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 20/09/2025 | Criação do Documento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Foi encontrado erros de ortografia e data no versionamento|
+| 1.1 | 20/09/2025 | Edição do nome na sidebar e da data do versionamento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Ok |
