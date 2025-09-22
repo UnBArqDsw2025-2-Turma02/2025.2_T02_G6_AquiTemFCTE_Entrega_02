@@ -49,3 +49,4 @@ Nenhuma informação complementar.
 | -- | -- | -- | -- | -- | -- |
 | 1.0 | 20/09/2025 | Criação do Documento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Foi encontrado erros de ortografia e data no versionamento|
 | 1.1 | 20/09/2025 | Edição do nome na sidebar e da data do versionamento | [Isaque Camargos](https://github.com/isaqzin) | [Ludmila Nunes](https://github.com/ludmilaaysha) | Ok |
+| 1.2 | 22/09/2025 | Adiciona screenshots | [Daniel Rodrigues](https://github.com/DanielRogs) | [Davi Camilo](https://github.com/Davicamilo23) | Revisado e aprovado |
