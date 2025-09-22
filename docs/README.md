@@ -27,6 +27,12 @@ O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Sof
 
 ## Screenshots da Segunda Entrega
 
+### Diagrama de Componentes
+![Diagrama de Componentes](/docs/Assets/componentes.png)
+
+### Diagrama de Atividades
+![Diagrama de Atividades](/docs/Assets/diagrama_atividades.png)
+
 ## Há algo a ser executado?
 
 ( ) SIM
