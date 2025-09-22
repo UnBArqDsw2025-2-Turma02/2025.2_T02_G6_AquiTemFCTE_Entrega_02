@@ -19,5 +19,6 @@
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Backlog do Produto](/Extra/2.5.1.BacklogDoProduto.md)
       - [2.5.2. Diagrama de Entidade-Relacionamento](/Extra/2.5.2.DER.md)
+      - [2.5.3. Diagrama Lógico de Dados](/Extra/2.5.3.DLD.md)
   - [3. Atas]()
       - [3.1. Ata 01 - 17/09/2025](/Extra/3.1.ata01.md)
